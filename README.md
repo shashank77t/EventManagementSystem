@@ -63,7 +63,7 @@ This configuration sets up your Spring Boot application with the specified prope
                 "weather": "Weather Description",
                 "distanceKm": Distance in Kilometers
             },
-            ...
+         
         ],
         "page": Page Number,
         "pageSize": Page Size,
