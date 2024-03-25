@@ -61,14 +61,14 @@ This configuration sets up your Spring Boot application with the specified prope
                 "cityName": "City Name",
                 "date": "YYYY-MM-DD",
                 "weather": "Weather Description",
-                "distanceKm": Distance in Kilometers
+                "distanceKm": "Distance in Kilometers"
             },
          
         ],
-        "page": Page Number,
-        "pageSize": Page Size,
-        "totalEvents": Total Number of Events,
-        "totalPages": Total Number of Pages
+        "page": "Page Number",
+        "pageSize": "Page Size",
+        "totalEvents": "Total Number of Events",
+        "totalPages": "Total Number of Pages"
     }
     ```
 - **Error Codes**:
